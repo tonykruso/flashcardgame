@@ -21,15 +21,15 @@ li {
     height: 175px;
     padding: 80px;
     background-color: #51aae5;
-    border-radius: 7px;
-    margin: 5px;
+    border-radius: 5px;
+    margin: 2px;
     text-align: center;
     line-height:27px;
     cursor: pointer;
     position: relative;
     color: #fff;
     font-weight:600;
-    font-size: 13px;
+    font-size: 12px;
     -webkit-box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
     -moz-box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
     box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
