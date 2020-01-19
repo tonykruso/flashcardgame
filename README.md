@@ -6,3 +6,5 @@ the front is the question, by clicking (or tapping on mobile) it will flip the c
 if you get the question correct you can X out of it to remove it, so you can focus on questions you're struggling with. below is a link to the app. 
 
 https://tonykruso.github.io/flashcardgame/
+
+Application uses HTML, CSS, JavaScript and some Vue.JS
