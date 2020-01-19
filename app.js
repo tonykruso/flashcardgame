@@ -104,6 +104,137 @@ const cards = [
         back: 'The solution of limestone by flowing rainwater on inclined surfaces. The grooves range in width from a few millimeters to more than a meter in the width and ommonly result in knifelike ridges. ',
         flipped: false,
     },
+    {
+        front: 'What is the red clayey soil found mantling the ground surface and extending into joints or fractures restulting from surface or near surface solution, usualy found on moderate to gentle slopes?',
+        back: 'Terra rossa.',
+        flipped: false,
+    },
+    {
+        front: 'Seismic refraction is based on what? What is it used?',
+        back: 'Seismic refraction methods are based on travel times of the seismic waves that pass through materials of differing densities, in order to map the layers.',
+        flipped: false,
+    },
+    {
+        front: 'Define "Body-Wave Magnitutde (Mb)"',
+        back: 'The magnitude of an earthquake as estimated from the amplitude of the body waves.',
+        flipped: false,
+    },
+    {
+        front: 'What features are characteristics of larger clasts within a moraine deposit?',
+        back: 'Many of the larger clasts are faceted and have striations or polish due to the abrasion during the movement of the glacier.',
+        flipped: false,
+    },
+    {
+        front: 'Are glacial deposits formed from direct deoposition of materials by glacio-fluvial or glacio-lacustrine processes stratified or unstratified?',
+        back: 'Stratified deposits.',
+        flipped: false,
+    },
+    {
+        front: 'What do the presence of drumlins indicate.',
+        back: 'Previously deposited glacial materials that have been overrun by another advance of glacier.',
+        flipped: false,
+    },
+    {
+        front: 'What geologic processes cause truncated or faceted spurs?',
+        back: 'Truncated ridges, which characteristically have an inverted V-shaped face, can result from either the abrasion of glacial action as it straightens the valleys or by faulting.',
+        flipped: false,
+    },
+    {
+        front: 'What is the jagged sharp sawtooth-loke ridge that results from the growth of cirques on opposite sides of a mountain ridge by alpine glaciation called?',
+        back: 'Arete (first "E" is accented)',
+        flipped: false,
+    },
+    {
+        front: 'What is the importance of knowing water saturation in an oil reservoir?',
+        back: 'Below 60% of oil saturation, the reservoir will produce mostly water.',
+        flipped: false,
+    },
+    {
+        front: 'Give three examples of magmatic segregation deposits.',
+        back: '1. Layered intrusions (chromite), 2.Kimberlite pipes (diamonds), 3. Ophiolites (asbestos). ',
+        flipped: false,
+    },
+    {
+        front: 'What does the "Single-Point Resistivity Log" show and what area is it limited to?',
+        back: 'A log that measures the resistivity using two electrodes and having a limited area of investigation from 5 to 10 times the electrode diameter.',
+        flipped: false,
+    },
+    {
+        front: 'What does a "Spontaneous Potential Log" show and what is it a result of?',
+        back: 'A log of the difference in DC voltage between an electrode in a well and an electrode at the surface. The difference in voltage is a result of the electrochemical potentials that develop between dissimilar borehole and formation fluids.',
+        flipped: false,
+    },
+    {
+        front: 'What is a sand sheet?',
+        back: 'Often called sand drift, they are extensive flat areas covered with a coarse-grained sand that does not form dunes, but typically are covered with ripple marks.',
+        flipped: false,
+    },
+    {
+        front: 'What conditions do reservoir rocks need to have to allow migration, accumulation, and storage of petroleum to occur?',
+        back: 'Reservoir rocks need to be sufficient porosity and permeability. Typical values of porosity range from 5% to 30%, most commonly in the 10% to 20% range. Permeabilities vary from 5-1000 millidarcys.',
+        flipped: false,
+    },
+    {
+        front: 'What is stratiform deposit?',
+        back: 'A stratiform deposit is where the ore constitutes a layer or layers in the rock. It is also stratabound.',
+        flipped: false,
+    },
+    {
+        front: 'How are clastic rocks classified?',
+        back: 'Clastic rocks may be classified according to size of particles, sorting and distribution of particles, or chemical content of silica, feldspar, and calcite.',
+        flipped: false,
+    },
+    {
+        front: 'Define diagenesis.',
+        back: 'The change undergone by sedimentary rock after its original deposition and during and after lithification. Alteration may be chemical, physical, or biological, but not including metamorphism or weathering.',
+        flipped: false,
+    },
+    {
+        front: 'In what type of environment are you likely to find dolomite and why?',
+        back: 'Dolomite is precipitated directly from waters in highly saline tidal flats. Saline water in the pore space is enriched in magnesium ions due to evaporation. Some of the excess magnesium is exchanged for calcium in the calcium carbonate, converting it to a dolomite.',
+        flipped: false,
+    },
+    {
+        front: 'What is a fold line and how is it used?',
+        back: 'The fold line is a hinge line along which vertical cross section may be constructed and then flattened out to a horizontal or map view. It used to represent the subsurace along any given line in a map view. It need not be perpendicular to strike.',
+        flipped: false,
+    },
+    {
+        front: 'Define Maximum Capable Earthquake.',
+        back: 'The max level of ground shaking ever expected at a site within the known geological framework. In Seismic Zones 3 & 4m it is the earthquake ground motion that has a 10% probability of being exceeded in 100 years.',
+        flipped: false,
+    },
+    {
+        front: 'In a distance-drawdown pumping test the line drawn on the semilog paper through the drawdown measurements is drawn through those points that are closests to the pumping well. Why?',
+        back: 'In a distance-drawdown test, the points closest to the pumping well are the most accurate representation of the conditions because the further away from the pumping well the greater the likelihood that factors are present that would affece the water levels.',
+        flipped: false,
+    },
+    {
+        front: 'In a time-drawdown pumping test the line drawn on the semilog paper through the drawdown measurements is a drawn through those points that are further away from the time and test start. Why?',
+        back: 'The points after the first 10 minutes are the most accurate because there has been time to stabilize or for for the cone of depression to reach a steady-state condition. In face the data taken in the first 10 minutes is not included in the analysis.',
+        flipped: false,
+    },
+    {
+        front: 'What is "Specific Yield?"',
+        back: 'Ratio of the volume of water that drains from a saturated soil or rock due to gravity to the total volume of soil or rock, stated as a percentage.',
+        flipped: false,
+    },
+    {
+        front: 'What is "Time History"?',
+        back: 'A record of ground acceleration versus time during an earthquake.',
+        flipped: false,
+    },
+    {
+        front: 'What is the US EPA recommended maximum TDS to ensure acceptable aesthetic and taste characteristics for drinking water?',
+        back: 'For drinking water, the maximum TDS = 500 mg/l.',
+        flipped: false,
+    },
+    {
+        front: 'At what value of TDS water is considered to be saline?',
+        back: 'TDS > 10,000 mg/ for saline water.',
+        flipped: false,
+    },
+
 
 ];
 
